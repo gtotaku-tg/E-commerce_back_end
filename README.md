@@ -9,7 +9,7 @@
 
 ### App Demo
 
-[Walkthrough Video](https://drive.google.com/file/d/1UWDrVCMpXh2wRQV44WbVEPAobiCxoSeo/view)
+[Walkthrough Video](https://watch.screencastify.com/v/y0WcKAdD4noooBj2d8dP)
 
 
 ### User Story
